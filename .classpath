@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="build/generated/src"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry exported="true" kind="lib" path="build/web/Other/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/Other/cos.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/cos.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/Other/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/Other/cos.jar"/>
+	<classpathentry kind="output" path="build/generated/classes"/>
+</classpath>
